@@ -1,3 +1,4 @@
+#FCTRL2 - Small factorials
 t=input()
 f=1
 
