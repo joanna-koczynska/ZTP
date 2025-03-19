@@ -1,4 +1,4 @@
-﻿
+﻿//FCTRL2 - Small factorials
 #include <iostream>
 #include <vector>
 #include <string>
