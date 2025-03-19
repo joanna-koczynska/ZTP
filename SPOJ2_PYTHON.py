@@ -1,4 +1,4 @@
-
+#SMPSEQ3 - Fun with Sequences 
 
 n=input()
 
