@@ -1,4 +1,4 @@
-﻿
+//SMPSEQ3 - Fun with Sequences ﻿
 #include <iostream>
 #include <algorithm>
 #include <vector>
