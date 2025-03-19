@@ -1,3 +1,4 @@
+//SMPSEQ3 - Fun with Sequences 
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;
